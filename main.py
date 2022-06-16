@@ -1,6 +1,8 @@
 """
 Name(s): Sophia Miriam Ghantous
 Name of Project: The Most Boring RPG You Will Ever Play
+
+[note: The code is very messy and ugly-looking, so the hashtag lines are there for visual clarity]
 """
 
 name = str(input("What is your name, young hero? \n"))
